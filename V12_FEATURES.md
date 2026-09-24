@@ -1,0 +1,26 @@
+# FIND-ME V12 FEATURES
+
+- End-to-end missing-person case management
+- Verified missing-person records and last-seen information
+- FaceNet512 CCTV candidate matching
+- Reference template ensemble
+- Face quality scoring
+- Adaptive ~2 FPS video sampling
+- Multi-frame candidate grouping
+- Clothing supporting clue
+- Broad age compatibility supporting clue
+- Location and time context
+- Explainable candidate score
+- Persistent below-gate evidence gallery
+- SHA-256 evidence integrity verification
+- Grouped movement reconstruction
+- Observation history
+- Candidate comparison
+- CCTV camera registry
+- Human-in-the-loop review
+- Emergency alert gating and notification workflow
+- Security & Privacy Center
+- JWT authentication and RBAC
+- Audit logging
+- AI Evaluation dashboard based only on recorded prototype activity
+- Professional investigation animations and reduced-motion support

@@ -1,0 +1,9 @@
+{
+  "name": "FIND-ME — Missing Persons & Investigation Intelligence Platform",
+  "short_name": "FIND-ME",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f7f9fc",
+  "theme_color": "#0a192f",
+  "description": "Evidence-led missing-person reporting, CCTV AI investigation and emergency alert prototype."
+}
